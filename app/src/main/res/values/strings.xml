@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monitoramento de Paciente</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tela_configuracoes_activity">Configurações</string>
+    <string name="title_activity_tela_paciente_activity">Controle de Paciente</string>
+    <string name="title_activity_tela_recomendacoes_activity">Recomendações</string>
+    <string name="title_activity_tela_sobre_activity">Sobre</string>
+    <string name="action_Sobre">sobre</string>
+    <string name="Sobre">Sobre</string>
+    <string name="Recomendações">Recomendações</string>
+    <string name="title_activity_tela_historico_activity">Histórico</string>
+    <string name="Configurações">Configurações</string>
+    <string name="title_activity_coleta_activity">Monitoramento</string>
+    <string name="title_activity_cadastro_paciente_activity">CadastroPaciente_activity</string>
+
+</resources>
